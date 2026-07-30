@@ -1,7 +1,7 @@
 # 📊 DMart Sales Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard.png" alt="DMart Sales Dashboard"/>
+  <img src="screenshot/dashboard_screenshot.png" alt="DMart Sales Dashboard"/>
 </p>
 
 ## 📌 Project Overview
